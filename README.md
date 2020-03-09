@@ -7,7 +7,7 @@ Please do write a readme on running the program.
 
 
 Solution:
-As a java developer,my first instinct was to solve this problem using Java/ multiThreading. Initially i thought of assigning each line to new thread to compute the work, but as it turn out with large files (> 1,000,000 lines of code) it was inefficient to work with this many threads as context switch is time taking between threads. Yes, multithreading increases efficiency by utilising CPU but using large no. of  threads decreases it due to context switching which is time taking, so it finally boiled down to finding a value of n, where n is no of threads, in order to maximize efficiency of my code.
+As a java developer,my first instinct was to solve this problem using Java/ multiThreading. Initially i thought of assigning each line to new thread to compute the work, but as it turned out with large files (> 1,000,000 lines of code) it was inefficient to work with this many threads as context switch is time taking between threads. Yes, multithreading increases efficiency by utilising CPU but using large no. of  threads decreases it due to context switching which is time taking, so it finally boiled down to finding a value of n, where n is no of threads, in order to maximize efficiency of my code.
 So i created a dynamic java program in which we can set the value of n, as the efficiency may differ on different system with different values of n, following were the results when the code was tested against a File( size - 100MB, no. of lines - 1128024, no. of words - 13302638) and following were the results,
 
 
