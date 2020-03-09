@@ -12,18 +12,18 @@ So i created a dynamic java program in which we can set the value of n, as the e
 
 
 My System Specification - 
-cores = 2
-logical processor = 4
+cores = 2,
+logical processor = 4.
 
 Result - 
-Number of Threads: 1
+1. Number of Threads: 1
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 1128024
 Number of words in the file: 13302638
 time required to execute in sec = 6.239s
 
 
-Number of Threads: 2
+2. Number of Threads: 2
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 564012
 Number of words in the file: 13302638
@@ -31,7 +31,7 @@ time required to execute in sec = 4.309s
 
 
 
-Number of Threads: 3
+3. Number of Threads: 3
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 376008
 Number of words in the file: 13302638
@@ -39,7 +39,7 @@ time required to execute in sec = 3.799s
 
 
 
-Number of Threads: 4
+4. Number of Threads: 4
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 282006
 Number of words in the file: 13302638
@@ -47,14 +47,14 @@ time required to execute in sec = 4.133s
 
 
 
-Number of Threads: 5
+5. Number of Threads: 5
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 225604
 Number of words in the file: 13302638
 time required to execute in sec = 4.299s
 
 
-Number of Threads: 6
+6. Number of Threads: 6
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 188004
 Number of words in the file: 13302638
@@ -62,35 +62,35 @@ time required to execute in sec = 4.563s
 
 
 
-Number of Threads: 7
+7. Number of Threads: 7
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 161146
 Number of words in the file: 13302638
 time required to execute in sec = 4.888s
 
 
-Number of Threads: 8
+8. Number of Threads: 8
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 141003
 Number of words in the file: 13302638
 time required to execute in sec = 5.176s
 
 
-Number of Threads: 9
+9. Number of Threads: 9
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 125336
 Number of words in the file: 13302638
 time required to execute in sec = 5.101s
 
 
-Number of Threads: 10
+10. Number of Threads: 10
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 112802
 Number of words in the file: 13302638
 time required to execute in sec = 5.273s
 
 
-Number of Threads: 100
+11. Number of Threads: 100
 Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 11280
 Number of words in the file: 13302638
