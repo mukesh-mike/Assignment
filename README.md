@@ -95,3 +95,7 @@ Number of lines in the file: 1128024
 Approx No. of lines to be process by each thread: 11280
 Number of words in the file: 13302638
 time required to execute in sec = 25.469s
+
+
+
+
