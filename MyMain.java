@@ -77,7 +77,7 @@ public class MyMain implements Runnable{
 	    BufferedReader br = new BufferedReader(new FileReader(new File(fileInputPath)));   
 	  
 	    
-	    
+	    // n is core in this code
 	    int core = 3;
 	    
 	    int line = 0;
