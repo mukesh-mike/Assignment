@@ -98,4 +98,6 @@ time required to execute in sec = 25.469s
 
 
 
+Also, after our introduction session, i tried to solve above problem using erlang too, as erlang is widely known in the market for concurrency. But i faced problem with this mainly because of 2 reasons, first i am not as familiar with erlang as i am with java and other being since erlang doesn't allow variable to be overwritten, i was not able to update the count variable after individual process execution, i tried to use list, but was facing issues, i have written a working code in erlang as well but it is not as optimal as the java one.
 
+So i have attached only Java solution with this assignment.
